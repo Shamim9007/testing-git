@@ -1,0 +1,8 @@
+MAKE PROJECT
+
+GIT INIT - initialize as a git repository
+GIT ADD - add files to staging files
+GIT COMMIT -M "INITIAL COMMIT" - commit
+
+SETUP GITHUB
+COPY URL
