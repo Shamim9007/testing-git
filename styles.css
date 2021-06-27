@@ -4,3 +4,7 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h1 {
+  background: red;
+  text-transform: uppercase;
+}
